@@ -13,7 +13,7 @@ setup(
     description='A simple abstracted omni-processor payment library in python.',
     long_description=readme,
     author='Karthic Raghupathi',
-    author_email='me@karthicr.com',
+    author_email='karthicr@gmail.com',
     url='https://github.com/karthicraghupathi/paisa',
     license=license,
     packages=find_packages(exclude=('tests', 'docs'))
